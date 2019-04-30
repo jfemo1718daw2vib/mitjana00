@@ -1,5 +1,5 @@
-//Autor: dc1718daw2
-//Data i hora: 201712011403
+//Autor: jfemo1718daw2
+//Data i hora: 201904300000
 
 #include <stdio.h>
 
@@ -21,6 +21,10 @@ int main() {
 		scanf(" %c",&consulta); 
 	}
 	mitjana=suma/numero_repeticions;
-	printf("La mitjana resultant és: %.2f\n",mitjana);	
+  printf("La mitjana resultant és: %.2f\n",mitjana);
+  
+  
 	return 0;
 }
+
+printf("La mitjana ha estat trobada amb �xit\n");
