@@ -1,5 +1,5 @@
-//Autor: dc1718daw2
-//Data i hora: 201712011403
+//Autor: jfemo1718daw2
+//Data i hora: 201904300000
 
 #include <stdio.h>
 
@@ -24,3 +24,5 @@ int main() {
 	printf("La mitjana resultant Ã©s: %.2f\n",mitjana);	
 	return 0;
 }
+
+printf("Operació finalitzada amb èxit\n");
